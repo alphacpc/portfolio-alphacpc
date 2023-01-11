@@ -2,7 +2,7 @@ import React from 'react'
 import CardService from '../Components/CardService'
 import Navbar from '../Components/Navbar'
 
-// import image from "./../assets/images/photo3.png"
+import image from "./../Assets/images/photo3.png"
 
 
 const Home = () => {
@@ -23,7 +23,7 @@ const Home = () => {
                     <div className="divRight">
                         <div className='one'></div>
                         <div className='second'></div>
-                        {/* <img src={image} alt="Profil user"/> */}
+                        <img src={image} alt="Profil user"/>
                     </div>
                 </div>
 
