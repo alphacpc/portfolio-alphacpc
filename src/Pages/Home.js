@@ -18,6 +18,7 @@ const Home = () => {
                         <h1>ALPHA AMADOU DIALLO</h1>
                         <h3>FullStack Developer</h3>
                         <h2>Junior Data Engineer</h2>
+                        <h2>I love automate process</h2>
                         <p>Devops - Automatisation - Blockchain - Computer Vision</p>
                     </div>
                     <div className="divRight">
